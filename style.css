@@ -14,8 +14,8 @@
   .right-footer {
     position: absolute;
     bottom: 0px;
-    right: 10px;
-    padding: 10px 10px 15px 900px; 
+    right: 0px;
+    padding: 10px 20px 15px 900px; 
     background-color: rgb(236, 236, 240);
     margin: 0;
     color: rgba(0,0,0,0.57);
@@ -41,8 +41,8 @@
   .left-footer {
     position: absolute;
     bottom: 0px;
-    left: 10px;
-    padding: 10px 900px 15px 10px; 
+    left: 0px;
+    padding: 10px 900px 15px 20px; 
     background-color: rgb(236, 236, 240);
     color: rgba(0,0,0,0.57);
   }
